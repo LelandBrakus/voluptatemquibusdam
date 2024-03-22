@@ -1,0 +1,52 @@
+{
+  "name": "voluptatemquibusdam",
+  "version": "1.0.0",
+  "description": "filecoin",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LelandBrakus/voluptatemquibusdam.git"
+  },
+  "keywords": [
+    "saepe",
+    "ratione",
+    "js"
+  ],
+  "author": "AlisonSchumm",
+  "license": "MIT and APACHE",
+  "bugs": {
+    "url": "https://github.com/LelandBrakus/voluptatemquibusdam.git/issues"
+  },
+  "homepage": "https://github.com/LelandBrakus/voluptatemquibusdam.git",
+  "dependencies": {
+    "@glif/filecoin-actor-utils": "^2.0.62",
+    "@glif/filecoin-address": "^2.0.43",
+    "@glif/filecoin-number": "^2.0.69",
+    "@glif/filecoin-rpc-client": "^2.0.43",
+    "@types/cbor": "^6.0.0",
+    "@unipackage/datastore": "^0.2.0",
+    "@unipackage/ddd": "^1.1.0",
+    "@unipackage/net": "^2.5.0",
+    "cbor": "^9.0.1",
+    "mongoose": "^7.6.3"
+  },
+  "devDependencies": {
+    "@babel/runtime": "^7.23.4",
+    "@release-it/conventional-changelog": "^8.0.1",
+    "@types/chai": "^4.3.11",
+    "@types/dotenv": "^8.2.0",
+    "@types/mocha": "^10.0.6",
+    "@types/node": "20.6.2",
+    "all-contributors-cli": "^6.26.1",
+    "chai": "^4.3.10",
+    "dotenv": "^16.3.1",
+    "git-cz": "^4.9.0",
+    "mocha": "^10.2.0",
+    "readme-md-generator": "^1.0.0",
+    "release-it": "^17.0.1",
+    "sinon": "^17.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
